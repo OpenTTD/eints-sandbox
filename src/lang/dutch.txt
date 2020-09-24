@@ -1820,7 +1820,7 @@ STR_OSNAME_OS2                                                  :OS/2
 STR_OSNAME_SUNOS                                                :SunOS
 
 # Abandon game
-STR_ABANDON_GAME_CAPTION                                        :{WHITE}Spel nu sluiten!
+STR_ABANDON_GAME_CAPTION                                        :{WHITE}Spel sluiten
 STR_ABANDON_GAME_QUERY                                          :{YELLOW}Weet je zeker dat je dit spel wilt sluiten?
 STR_ABANDON_SCENARIO_QUERY                                      :{YELLOW}Weet je zeker dat je dit scenario wilt sluiten?
 
