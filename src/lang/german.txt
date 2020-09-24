@@ -236,6 +236,7 @@ STR_TOOLTIP_FILTER_CRITERIA                                     :{BLACK}Filterkr
 STR_BUTTON_SORT_BY                                              :{BLACK}Sortieren nach
 STR_BUTTON_LOCATION                                             :{BLACK}Standort
 STR_BUTTON_RENAME                                               :{BLACK}Umbenennen
+STR_BUTTON_CATCHMENT                                            :{BLACK}Einzugsgebiet
 
 STR_TOOLTIP_CLOSE_WINDOW                                        :{BLACK}Fenster schließen
 STR_TOOLTIP_WINDOW_TITLE_DRAG_THIS                              :{BLACK}Titelleiste klicken und ziehen, um das Fenster zu verschieben
