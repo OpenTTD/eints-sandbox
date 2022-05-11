@@ -1795,8 +1795,8 @@ STR_OSNAME_OS2                                                  :OS/2
 STR_OSNAME_SUNOS                                                :SunOS
 
 # Abandon game
-STR_ABANDON_GAME_CAPTION                                        :{WHITE}Spiel beenden
-STR_ABANDON_GAME_QUERY                                          :{YELLOW}Das Spiel wirklich beenden?
+STR_ABANDON_GAME_CAPTION                                        :changes 2022-05-11 23:04
+STR_ABANDON_GAME_QUERY                                          :changes 2022-05-11 23:11
 STR_ABANDON_SCENARIO_QUERY                                      :{YELLOW}Soll das Szenario wirklich verlassen werden?
 
 # Cheat window
@@ -3492,6 +3492,7 @@ STR_BUY_VEHICLE_ROAD_VEHICLE_BUY_VEHICLE_BUTTON                 :{BLACK}Fahrzeug
 STR_BUY_VEHICLE_SHIP_BUY_VEHICLE_BUTTON                         :{BLACK}Schiff kaufen
 STR_BUY_VEHICLE_AIRCRAFT_BUY_VEHICLE_BUTTON                     :{BLACK}Flugzeug kaufen
 
+STR_BUY_VEHICLE_AIRCRAFT_BUY_REFIT_VEHICLE_BUTTON               :new 2022-05-11 23:10
 
 STR_BUY_VEHICLE_TRAIN_BUY_VEHICLE_TOOLTIP                       :{BLACK}Angewähltes Fahrzeug kaufen. Shift+Klick zeigt einen Kostenvoranschlag
 STR_BUY_VEHICLE_ROAD_VEHICLE_BUY_VEHICLE_TOOLTIP                :{BLACK}Ausgewähltes Fahrzeug kaufen. Shift+Klick zeigt einen Kostenvoranschlag
