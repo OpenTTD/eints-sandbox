@@ -1,0 +1,947 @@
+##plural 0
+##grflangid 0x04
+
+
+# This file is part of OpenTTD.
+# OpenTTD is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 2.
+# OpenTTD is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+# See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with OpenTTD. If not, see <http://www.gnu.org/licenses/>.
+
+
+##id 0x0000
+
+# Cargo related strings
+# Plural cargo name
+
+# Singular cargo name
+
+# Quantity of cargo
+
+# Two letter abbreviation of cargo name
+
+# 'Mode' of transport for cargoes
+
+# Colours, do not shuffle
+
+# Units used in OpenTTD
+
+
+
+
+
+
+
+
+# Common window strings
+
+
+STR_TOOLTIP_DEMOLISH_BUILDINGS_ETC                              :{BLACK}Demole edificios, etc en un área del terreno. Ctrl permite seleccionar un área diagonalmente. Mayús permite mostrar una estimación del precio
+
+# Show engines button
+
+
+# Query window
+
+# On screen keyboard window
+
+# Measurement tooltip
+
+
+# These are used in buttons
+# These are used in dropdowns
+
+# Tooltips for the main toolbar
+
+# Extra tooltips for the scenario editor toolbar
+
+############ range for SE file menu starts
+############ range for SE file menu starts
+
+############ range for settings menu starts
+############ range ends here
+
+############ range for file menu starts
+############ range ends here
+
+# map menu
+
+############ range for town menu starts
+############ range ends here
+
+############ range for subsidies menu starts
+############ range ends here
+
+############ range for graph menu starts
+############ range ends here
+
+############ range for company league menu starts
+############ range ends here
+
+############ range for industry menu starts
+############ range ends here
+
+############ range for railway construction menu starts
+############ range ends here
+
+############ range for road construction menu starts
+############ range ends here
+
+############ range for waterways construction menu starts
+############ range ends here
+
+############ range for airport construction menu starts
+############ range ends here
+
+############ range for landscaping menu starts
+############ range ends here
+
+############ range for music menu starts
+############ range ends here
+
+############ range for message menu starts
+############ range ends here
+
+############ range for about menu starts
+############ range ends here
+
+############ range for ordinal numbers used for the place in the highscore window
+############ range for ordinal numbers ends
+
+############ range for days starts
+############ range for days ends
+
+############ range for months starts
+
+############ range for months ends
+
+# Graph window
+
+
+
+
+# Graph key window
+
+# Company league window
+STR_COMPANY_LEAGUE_PERFORMANCE_TITLE_CHAIRMAN                   :Consejero Delegado
+
+# Performance detail window
+############ Those following lines need to be in this order!!
+############ End of order list
+
+# Music window
+STR_MUSIC_TOOLTIP_TOGGLE_PROGRAM_SHUFFLE                        :{BLACK}Activa/Desactiva el mezclador
+
+# Playlist window
+
+# Highscore window
+
+# Smallmap window
+
+
+
+STR_SMALLMAP_TOOLTIP_TOGGLE_TOWN_NAMES_ON_OFF                   :{BLACK}Muestra/Oculta los nombres de los municipios en el mapa
+STR_SMALLMAP_TOOLTIP_SHOW_HEIGHT                                :{BLACK}Muestra/Oculta el mapa de alturas
+
+# Status bar messages
+
+# News message history
+
+
+
+
+
+
+
+
+
+
+
+
+# Order review system / warnings
+
+
+
+
+
+
+
+
+# Extra view window
+
+# Game options window
+
+############ start of currency region
+############ end of currency region
+
+
+
+############ start of townname region
+############ end of townname region
+
+
+############ start of autosave dropdown
+############ end of autosave dropdown
+
+
+
+
+
+
+
+
+
+
+
+
+# Custom currency window
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Settings tree window
+
+
+
+
+
+
+
+STR_CONFIG_SETTING_MAXIMUM_INITIAL_LOAN_HELPTEXT                :Cantidad máxima que una empresa puede recibir como préstamo (sin tener en cuenta la inflación)
+
+STR_CONFIG_SETTING_AUTOSLOPE_HELPTEXT                           :Permite modificar el terreno debajo de edificios y ferrocarriles sin eliminarlos
+STR_CONFIG_SETTING_INFLATION_HELPTEXT                           :Activa la inflación económica, lo que provoca que los costes aumenten ligeramente más rápido que los beneficios
+STR_CONFIG_SETTING_ALLOW_EXCLUSIVE_HELPTEXT                     :Si una empresa compra derechos de transporte exclusivos en un municipio, las estaciones de sus oponentes (pasajeros o carga) no recibirán ninguna carga para transportar durante un año
+STR_CONFIG_SETTING_ALLOW_FUND_BUILDINGS_HELPTEXT                :Permite a las empresas dar dinero a los municipios para construir nuevas casas
+STR_CONFIG_SETTING_ALLOW_GIVE_MONEY_HELPTEXT                    :Permite la transferencia de dinero entre empresas en modo multijugador
+STR_CONFIG_SETTING_INFRASTRUCTURE_MAINTENANCE_HELPTEXT          :Si se activa, las infraestructuras tienen costes de mantenimiento. Los costes de infraestructura aumentan con el tamaño de la red, por lo que afectan en mayor grado a las empresas grandes  que a las pequeñas
+
+
+
+
+STR_CONFIG_SETTING_SNOWLINE_HEIGHT_HELPTEXT                     :Permite escoger la cota a la cual la nieve comienza en el clima subártico. La nieve también afecta a la generación de industrias y a los requisitos de crecimiento de municipios. Solo puede ser modificado mediante el Editor de Escenarios o calculado mediante "extensión de la nieve"
+STR_CONFIG_SETTING_RIVER_AMOUNT_HELPTEXT                        :Selecciona el número de ríos a generar
+STR_CONFIG_SETTING_ROAD_SIDE_HELPTEXT                           :Selecciona el lado de conducción
+
+
+STR_CONFIG_SETTING_RIGHT_MOUSE_BTN_EMU_HELPTEXT                 :Selecciona el método para emular los clic con el botón derecho del ratón
+STR_CONFIG_SETTING_RIGHT_MOUSE_BTN_EMU_COMMAND                  :Comando+clic
+STR_CONFIG_SETTING_RIGHT_MOUSE_BTN_EMU_CONTROL                  :Ctrl+clic
+
+
+
+
+
+
+
+
+STR_CONFIG_SETTING_AI_PROFILE_HELPTEXT                          :Selecciona el perfil a usar para IA aleatorias o para los valores iniciales cuando se añade una nueva IA o un Script de juego
+
+STR_CONFIG_SETTING_SCRIPT_MAX_MEMORY_HELPTEXT                   :Cantidad de memoria que puede consumir un script antes de que sea finalizado forzosamente. Puede que necesite aumentarse para mapas grandes
+
+
+STR_CONFIG_SETTING_NEWS_COMPANY_INFORMATION_HELPTEXT            :Mostrar una noticia cuando se crea una nueva empresa, o cuando alguna empresa está en riesgo de quiebra
+
+
+
+STR_CONFIG_SETTING_TOWN_CARGOGENMODE_HELPTEXT                   :Cantidad de carga que es producida por las casas del municipio, en relación a la población total del municipio.{}Crecimiento cuadrático: Un municipio de doble tamaño genera el cuádruple de pasajeros.{}Crecimiento lineal: Un municipio de doble tamaño genera el doble de pasajeros.
+
+
+
+STR_CONFIG_SETTING_LINKGRAPH_ACCURACY_HELPTEXT                  :Este valor determina el tiempo de CPU empleado en calcular el grafo de distribución. Si es demasiado elevado puede producir ralentización en el juego. Si es demasiado bajo la distribución puede ser poco precisa, causando que ocasionalmente se produzcan errores en los lugares a los que se destina la carga.
+
+
+
+
+
+
+
+
+
+
+
+# Config errors
+
+# Intro window
+
+
+
+
+STR_INTRO_TOOLTIP_TEMPERATE                                     :{BLACK}Selecciona el estilo de terreno 'templado'
+STR_INTRO_TOOLTIP_SUB_ARCTIC_LANDSCAPE                          :{BLACK}Selecciona el estilo de terreno 'subártico'
+STR_INTRO_TOOLTIP_SUB_TROPICAL_LANDSCAPE                        :{BLACK}Selecciona el estilo de terreno 'subtropical'
+STR_INTRO_TOOLTIP_TOYLAND_LANDSCAPE                             :{BLACK}Selecciona el estilo de terreno 'juguetelandia'
+
+
+
+# Quit window
+
+# Supported OSes
+
+# Abandon game
+STR_ABANDON_GAME_QUERY                                          :{YELLOW}¿Estás seguro de que quieres abandonar esta partida?
+STR_ABANDON_SCENARIO_QUERY                                      :{YELLOW}¿Estás seguro de que quieres salir de este escenario?
+
+# Cheat window
+
+# Livery window
+
+
+
+# Face selection window
+
+
+# Network server list
+
+
+
+
+
+
+
+# Start new multiplayer server
+
+
+
+
+# Network game languages
+############ Leave those lines in this order!!
+############ End of leave-in-this-order
+
+# Network game lobby
+
+
+
+
+
+# Network connecting window
+
+############ Leave those lines in this order!!
+
+############ End of leave-in-this-order
+
+
+
+# Network company list added strings
+
+# Network client list
+
+
+
+# Network set password
+
+# Network company info join/password
+
+# Network chat
+
+
+# Network messages
+
+############ Leave those lines in this order!!
+############ End of leave-in-this-order
+
+
+# Network related errors
+############ Leave those lines in this order!!
+############ End of leave-in-this-order
+
+# Content downloading window
+STR_CONTENT_MATRIX_TOOLTIP                                      :{BLACK}Clica en una línea para ver los detalles{}Clica en los cajetines para seleccionar las descargas
+
+# Order of these is important!
+
+# Content downloading progress window
+
+# Content downloading error messages
+
+
+# Transparency settings window
+
+# Linkgraph legend window
+
+# Linkgraph legend window and linkgraph legend in smallmap
+
+# Base for station construction window(s)
+STR_STATION_BUILD_COVERAGE_OFF                                  :{BLACK}Desactivado
+STR_STATION_BUILD_COVERAGE_ON                                   :{BLACK}Activado
+
+# Join station window
+
+
+# Rail construction toolbar
+
+STR_RAIL_TOOLBAR_TOOLTIP_BUILD_RAILROAD_TRACK                   :{BLACK}Construye tramos de ferrocarril. Ctrl permite retirar ferrocarriles. Mayús permite mostrar una estimación del precio
+STR_RAIL_TOOLBAR_TOOLTIP_BUILD_AUTORAIL                         :{BLACK}Construye tramos de ferrocarril usando modo Autorraíl. Ctrl permite retirar ferrocarriles. Mayús permite mostrar una estimación del precio
+STR_RAIL_TOOLBAR_TOOLTIP_CONVERT_RAIL_TO_WAYPOINT               :{BLACK}Convierte el ferrocarril a punto de ruta. Ctrl activa la unión de puntos de ruta. Mayús permite mostrar una estimación del precio
+STR_RAIL_TOOLBAR_TOOLTIP_BUILD_RAILROAD_STATION                 :{BLACK}Construye estaciones de ferrocarril. Ctrl activa la unión de estaciones. Mayús permite mostrar una estimación del precio
+STR_RAIL_TOOLBAR_TOOLTIP_BUILD_RAILROAD_BRIDGE                  :{BLACK}Construye puentes de ferrocarril. Mayús permite mostrar una estimación del precio
+STR_RAIL_TOOLBAR_TOOLTIP_BUILD_RAILROAD_TUNNEL                  :{BLACK}Construye túneles ferroviarios. Mayús permite mostrar una estimación del precio
+STR_RAIL_TOOLBAR_TOOLTIP_CONVERT_RAIL                           :{BLACK}Convierte/Actualiza el tipo de ferrocarril. Mayús permite mostrar una estimación del precio
+
+
+# Rail depot construction window
+
+# Rail waypoint construction window
+
+# Rail station construction window
+
+
+
+# Signal window
+STR_BUILD_SIGNAL_DRAG_SIGNALS_DENSITY_DECREASE_TOOLTIP          :{BLACK}Reduce la distancia de arrastre de señales
+STR_BUILD_SIGNAL_DRAG_SIGNALS_DENSITY_INCREASE_TOOLTIP          :{BLACK}Incrementa la distancia de arrastre de señales
+
+# Bridge selection window
+
+
+# Road construction toolbar
+STR_ROAD_TOOLBAR_TOOLTIP_BUILD_ROAD_SECTION                     :{BLACK}Construye tramos de carretera. Ctrl permite retirar carreteras. Mayús permite mostrar una estimación del precio
+STR_ROAD_TOOLBAR_TOOLTIP_BUILD_TRAMWAY_SECTION                  :{BLACK}Construye tramos de tranvía. Ctrl permite retirar tranvías. Mayús permite mostrar una estimación del precio
+STR_ROAD_TOOLBAR_TOOLTIP_BUILD_AUTOROAD                         :{BLACK}Construye una carretera usando el modo de Autocarretera. Ctrl permite retirar carreteras. Mayús permite mostrar una estimación del precio
+STR_ROAD_TOOLBAR_TOOLTIP_BUILD_AUTOTRAM                         :{BLACK}Construye vías de tranvía usando el modo de Autotranvías. Ctrl permite retirar las vías. Mayús permite mostrar una estimación del precio
+STR_ROAD_TOOLBAR_TOOLTIP_BUILD_BUS_STATION                      :{BLACK}Construye estaciones de autobús. Ctrl activa la unión de estaciones. Mayús permite mostrar una estimación del precio
+STR_ROAD_TOOLBAR_TOOLTIP_BUILD_PASSENGER_TRAM_STATION           :{BLACK}Construye estaciones de tranvía de pasajeros. Ctrl activa la unión de estaciones. Mayús permite mostrar una estimación del precio
+STR_ROAD_TOOLBAR_TOOLTIP_BUILD_TRUCK_LOADING_BAY                :{BLACK}Construye estaciones de carga para camiones. Ctrl activa la unión de estaciones. Mayús permite mostrar una estimación del precio
+STR_ROAD_TOOLBAR_TOOLTIP_BUILD_CARGO_TRAM_STATION               :{BLACK}Construye estaciones de tranvía de carga. Ctrl activa la unión de estaciones. Mayús permite mostrar una estimación del precio
+STR_ROAD_TOOLBAR_TOOLTIP_BUILD_ROAD_BRIDGE                      :{BLACK}Construye puentes de carretera. Mayús permite mostrar una estimación del precio
+STR_ROAD_TOOLBAR_TOOLTIP_BUILD_TRAMWAY_BRIDGE                   :{BLACK}Construye puentes de tranvía. Mayús permite mostrar una estimación del precio
+STR_ROAD_TOOLBAR_TOOLTIP_BUILD_ROAD_TUNNEL                      :{BLACK}Construye túneles de carretera. Mayús permite mostrar una estimación del precio
+STR_ROAD_TOOLBAR_TOOLTIP_BUILD_TRAMWAY_TUNNEL                   :{BLACK}Construye túneles de tranvía. Mayús permite mostrar una estimación del precio
+STR_ROAD_TOOLBAR_TOOLTIP_CONVERT_ROAD                           :{BLACK}Convierte/Actualiza el tipo de carretera. Mayús permite mostrar una estimación del precio
+STR_ROAD_TOOLBAR_TOOLTIP_CONVERT_TRAM                           :{BLACK}Convierte/Actualiza el tipo de tranvía. Mayús permite mostrar una estimación del precio
+
+
+# Road depot construction window
+STR_BUILD_DEPOT_ROAD_ORIENTATION_SELECT_TOOLTIP                 :{BLACK}Selecciona la orientación del depósito de carretera
+
+# Road vehicle station construction window
+
+# Waterways toolbar (last two for SE only)
+STR_WATERWAYS_TOOLBAR_BUILD_CANALS_TOOLTIP                      :{BLACK}Construye canales. Mayús permite mostrar una estimación del precio
+STR_WATERWAYS_TOOLBAR_BUILD_LOCKS_TOOLTIP                       :{BLACK}Cosntruye esclusas. Mayús permite mostrar una estimación del precio
+STR_WATERWAYS_TOOLBAR_BUILD_DEPOT_TOOLTIP                       :{BLACK}Contruye un astillero (para comprar y dar mantenimiento a barcos). Mayús permite mostrar una estimación del precio
+STR_WATERWAYS_TOOLBAR_BUILD_DOCK_TOOLTIP                        :{BLACK}Construye muelles. Ctrl activa la unión de estaciones. Mayús permite mostrar una estimación del precio
+STR_WATERWAYS_TOOLBAR_BUOY_TOOLTIP                              :{BLACK}Coloca una boya que puede ser usada como punto de ruta. Mayús permite mostrar una estimación del precio
+STR_WATERWAYS_TOOLBAR_BUILD_AQUEDUCT_TOOLTIP                    :{BLACK}Construye un acueducto. Mayús permite mostrar una estimación del precio
+STR_WATERWAYS_TOOLBAR_CREATE_RIVER_TOOLTIP                      :{BLACK}Coloca ríos. Ctrl permite seleccionar un área diagonalmente
+
+# Ship depot construction window
+
+# Dock construction window
+
+# Airport toolbar
+
+# Airport construction window
+
+
+
+
+# Landscaping toolbar
+STR_LANDSCAPING_TOOLTIP_LOWER_A_CORNER_OF_LAND                  :{BLACK}Baja una esquina del terreno. Arrastrando se reduce la esquina seleccionada y se nivela el resto del terreno seleccionado a dicha altura. Ctrl permite seleccionar un área diagonalmente. Mayús permite mostrar una estimación del precio
+STR_LANDSCAPING_TOOLTIP_RAISE_A_CORNER_OF_LAND                  :{BLACK}Sube una esquina del terreno. Arrastrando se eleva la esquina seleccionada y se nivela el resto del terreno seleccionado a dicha altura. Ctrl permite seleccionar un área diagonalmente. Mayús permite mostrar una estimación del precio
+STR_LANDSCAPING_TOOLTIP_PURCHASE_LAND                           :{BLACK}Compra el terreno para futuros usos. Mayús permite mostrar una estimación del precio
+
+# Object construction window
+STR_OBJECT_BUILD_TOOLTIP                                        :{BLACK}Selecciona el objeto a construir. Mayús permite mostrar una estimación del precio
+
+
+# Tree planting window (last two for SE only)
+STR_TREES_RANDOM_TYPE_TOOLTIP                                   :{BLACK}Planta distintos árboles al azar. Mayús permite mostrar una estimación del precio
+
+# Land generation window (SE)
+
+
+# Town generation window (SE)
+
+STR_FOUND_TOWN_NAME_EDITOR_HELP                                 :{BLACK}Clica para introducir nombre del municipio
+
+
+
+# Fund new industry window
+
+# Industry cargoes window
+STR_INDUSTRY_CARGOES_NOTIFY_SMALLMAP_TOOLTIP                    :{BLACK}Muestra las industrias seleccionadas también en el minimapa
+
+# Land area window
+
+# Description of land area of different tiles
+
+
+
+# Houses come directly from their building names
+
+
+
+
+# Industries come directly from their industry names
+
+
+
+
+
+
+# About OpenTTD window
+
+# Framerate display window
+############ Leave those lines in this order!!
+############ End of leave-in-this-order
+############ Leave those lines in this order!!
+############ End of leave-in-this-order
+
+
+# Save/load game/scenario
+
+
+# World generation
+
+# Strings for map borders at game generation
+
+
+
+# SE Map generation
+
+
+# Map generation progress
+
+# NewGRF settings
+
+
+
+
+
+# NewGRF save preset window
+
+# NewGRF parameters window
+
+# NewGRF inspect window
+
+
+
+# Sprite aligner window
+
+
+# NewGRF (self) generated warnings/errors
+
+# NewGRF related 'general' warnings
+
+
+
+# NewGRF status
+
+# NewGRF 'it's broken' warnings
+
+
+# 'User removed essential NewGRFs'-placeholders for stuff without specs
+
+# Placeholders for other invalid stuff, e.g. vehicles that have gone (Game Script).
+
+# NewGRF scanning window
+
+# Sign list window
+STR_SIGN_LIST_CAPTION                                           :{WHITE}Lista de letreros - {COMMA} Letrero{P "" s}
+
+# Sign window
+
+STR_EDIT_SIGN_SIGN_OSKTITLE                                     :{BLACK}Introduce un nombre para el letrero
+
+# Town directory window
+
+# Town view window
+
+
+
+# Town local authority window
+
+
+STR_LOCAL_AUTHORITY_ACTION_TOOLTIP_SMALL_ADVERTISING            :{YELLOW}Inicia una campaña publicitaria local pequeña para atraer más pasajeros y carga a sus servicios de transporte.{}Proporciona un incremento temporal en la calificación de las estaciones en un radio pequeño alrededor del centro del municipio.{}Coste: {CURRENCY_LONG}
+STR_LOCAL_AUTHORITY_ACTION_TOOLTIP_LARGE_ADVERTISING            :{YELLOW}Inicia una campaña publicitaria local grande para atraer más pasajeros y carga a sus servicios de transporte.{}Proporciona un incremento temporal en la calificación de las estaciones en un radio grande alrededor del centro del municipio.{}Coste: {CURRENCY_LONG}
+
+# Goal window
+
+# Goal question window
+
+############ Start of Goal Question button list
+############ End of Goal Question button list
+
+# Subsidies window
+
+# Story book window
+
+# Station list window
+
+# Station view window
+
+
+
+
+
+
+############ range for rating starts
+############ range for rating ends
+
+
+
+
+
+# Waypoint/buoy view window
+
+
+# Finances window
+
+# Company view
+
+
+
+
+
+
+
+# Company infrastructure window
+
+# Industry directory
+STR_INDUSTRY_DIRECTORY_LIST_CAPTION                             :{BLACK}Nombre de industrias - Clica sobre un nombre para centrar la vista principal en la industria. Ctrl+clic abre un punto de vista en dicha posición
+
+# Industry view
+STR_INDUSTRY_VIEW_LOCATION_TOOLTIP                              : 	{BLACK}Centra la vista sobre la industria. Ctrl+clic abre un punto de vista en dicha posición
+
+
+
+
+# Vehicle lists
+
+STR_VEHICLE_LIST_TRAIN_LIST_TOOLTIP                             :{BLACK}Trenes - Clica en el tren para más información
+STR_VEHICLE_LIST_ROAD_VEHICLE_TOOLTIP                           :{BLACK}Vehículos de carretera - Clica en el vehículo para más información
+STR_VEHICLE_LIST_SHIP_TOOLTIP                                   :{BLACK}Barcos - Clica en el barco para más información
+STR_VEHICLE_LIST_AIRCRAFT_TOOLTIP                               :{BLACK}Aeronave - Clica en la aeronave para ver la información
+
+
+
+
+
+STR_VEHICLE_LIST_MASS_STOP_LIST_TOOLTIP                         :{BLACK}Clica para detener todos los vehículos de la lista
+STR_VEHICLE_LIST_MASS_START_LIST_TOOLTIP                        :{BLACK}Clica para arrancar todos los vehículos de la lista
+
+
+# Group window
+
+
+
+
+STR_GROUP_DELETE_QUERY_TEXT                                     :{WHITE}¿Estás seguro de que quieres borrar este grupo y todos sus subgrupos?
+
+
+
+
+# Build vehicle window
+
+
+############ range for vehicle availability starts
+############ range for vehicle availability ends
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Depot window
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Engine preview window
+
+
+
+
+
+# Autoreplace window
+
+
+
+
+
+
+
+
+# Vehicle view
+
+
+
+
+
+
+
+
+
+
+# Messages in the start stop button in the vehicle view
+
+
+# Vehicle stopped/started animations
+
+# Vehicle details
+
+
+# The next two need to stay in this order
+
+
+
+
+
+
+
+
+# Extra buttons for train details windows
+
+
+
+
+
+# Vehicle refit
+
+
+
+
+# Order view
+
+
+
+# Order bottom buttons
+
+
+
+
+
+
+# Conditional order variables, must follow order of OrderConditionVariable enum
+
+
+
+
+
+
+STR_ORDERS_VEH_WITH_SHARED_ORDERS_LIST_TOOLTIP                  :{BLACK}Muestra todos los vehículos con el mismo horario
+
+# String parts to build the order string
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Time table window
+
+STR_TIMETABLE_TOOLTIP                                           :{BLACK}Horario - Clica en una orden para resaltarla
+
+
+
+STR_TIMETABLE_STATUS_START_AT                                   :{BLACK}Este horario comenzará el {STRING}
+
+
+
+STR_TIMETABLE_CLEAR_TIME_TOOLTIP                                :{BLACK}Borra la duración de la orden resaltada
+
+
+STR_TIMETABLE_CLEAR_SPEED_TOOLTIP                               :{BLACK}Borra el límite de velocidad de la orden resaltada
+
+
+
+
+
+
+# Date window (for timetable)
+
+
+# AI debug window
+STR_AI_DEBUG                                                    :{WHITE}Depuración de Scripts de juego/IA
+
+
+# AI configuration window
+STR_AI_CONFIG_CAPTION                                           :{WHITE}Configuración de Scripts de juego/IA
+
+
+
+
+# Available AIs window
+
+
+
+
+# AI Parameters
+
+
+# Textfile window
+
+
+# Vehicle loading indicators
+
+# Income 'floats'
+
+# Saveload messages
+
+# Map generation messages
+
+
+
+
+
+# Soundset messages
+
+# Screenshot related messages
+
+
+# Error message titles
+
+# Generic construction errors
+
+# Local authority errors
+
+# Levelling errors
+
+# Company related errors
+
+
+# Town related errors
+
+# Industry related errors
+
+
+# Station construction related errors
+
+
+# Station destruction related errors
+
+
+# Waypoint related errors
+
+
+
+# Depot related errors
+
+
+
+
+
+
+# Autoreplace related errors
+
+# Rail construction errors
+
+
+# Road construction errors
+
+# Waterway construction errors
+
+# Tree related errors
+
+# Bridge related errors
+
+# Tunnel related errors
+
+# Object related errors
+
+# Group related errors
+
+# Generic vehicle errors
+
+
+
+
+
+
+
+
+
+
+
+
+# Specific vehicle errors
+STR_ERROR_CAN_T_MAKE_TRAIN_PASS_SIGNAL                          :{WHITE}No se puede pasar la señal en peligro al tren...
+
+
+
+# Order related errors
+
+
+# Timetable related errors
+
+# Sign related errors
+
+# Translatable comment for OpenTTD's desktop shortcut
+
+# Translatable descriptions in media/baseset/*.ob* files
+
+##id 0x2000
+# Town building names
+
+##id 0x4800
+# industry names
+
+############ WARNING, using range 0x6000 for strings that are stored in the savegame
+############ These strings may never get a new id, or savegames will break!
+##id 0x6000
+
+##id 0x6020
+############ end of savegame specific region!
+
+##id 0x8000
+# Vehicle names
+
+##id 0x8800
+# Formatting of some strings
+
+
+
+
+
+# Viewport strings
+
+
+
+
+# Simple strings to get specific types of data
+
+
+# Slightly 'raw' stringcodes with colour or size
+
+
+

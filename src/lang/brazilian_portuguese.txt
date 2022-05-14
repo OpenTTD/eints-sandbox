@@ -1,0 +1,857 @@
+##plural 2
+##grflangid 0x37
+
+
+# This file is part of OpenTTD.
+# OpenTTD is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 2.
+# OpenTTD is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+# See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with OpenTTD. If not, see <http://www.gnu.org/licenses/>.
+
+
+##id 0x0000
+
+# Cargo related strings
+# Plural cargo name
+
+# Singular cargo name
+
+# Quantity of cargo
+
+# Two letter abbreviation of cargo name
+
+# 'Mode' of transport for cargoes
+
+# Colours, do not shuffle
+
+# Units used in OpenTTD
+
+
+
+
+
+
+
+
+# Common window strings
+
+
+
+# Show engines button
+
+
+# Query window
+
+# On screen keyboard window
+
+# Measurement tooltip
+
+
+# These are used in buttons
+# These are used in dropdowns
+
+# Tooltips for the main toolbar
+
+# Extra tooltips for the scenario editor toolbar
+
+############ range for SE file menu starts
+############ range for SE file menu starts
+
+############ range for settings menu starts
+############ range ends here
+
+############ range for file menu starts
+############ range ends here
+
+# map menu
+
+############ range for town menu starts
+############ range ends here
+
+############ range for subsidies menu starts
+############ range ends here
+
+############ range for graph menu starts
+############ range ends here
+
+############ range for company league menu starts
+############ range ends here
+
+############ range for industry menu starts
+############ range ends here
+
+############ range for railway construction menu starts
+############ range ends here
+
+############ range for road construction menu starts
+############ range ends here
+
+############ range for waterways construction menu starts
+############ range ends here
+
+############ range for airport construction menu starts
+############ range ends here
+
+############ range for landscaping menu starts
+############ range ends here
+
+############ range for music menu starts
+############ range ends here
+
+############ range for message menu starts
+############ range ends here
+
+############ range for about menu starts
+############ range ends here
+
+############ range for ordinal numbers used for the place in the highscore window
+############ range for ordinal numbers ends
+
+############ range for days starts
+############ range for days ends
+
+############ range for months starts
+
+############ range for months ends
+
+# Graph window
+
+
+
+
+# Graph key window
+
+# Company league window
+
+# Performance detail window
+############ Those following lines need to be in this order!!
+############ End of order list
+
+# Music window
+
+# Playlist window
+
+# Highscore window
+
+# Smallmap window
+
+
+
+
+# Status bar messages
+
+# News message history
+
+
+
+
+
+
+
+
+
+
+
+
+# Order review system / warnings
+
+
+
+
+
+
+
+
+# Extra view window
+
+# Game options window
+
+############ start of currency region
+############ end of currency region
+
+
+
+############ start of townname region
+############ end of townname region
+
+
+############ start of autosave dropdown
+############ end of autosave dropdown
+
+
+
+
+
+
+
+
+
+
+
+
+# Custom currency window
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Settings tree window
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Config errors
+
+# Intro window
+
+
+
+
+
+
+
+# Quit window
+
+# Supported OSes
+
+# Abandon game
+
+# Cheat window
+
+# Livery window
+
+
+
+# Face selection window
+
+
+# Network server list
+
+
+
+
+
+
+
+# Start new multiplayer server
+
+
+
+
+# Network game languages
+############ Leave those lines in this order!!
+############ End of leave-in-this-order
+
+# Network game lobby
+
+
+
+
+
+# Network connecting window
+
+############ Leave those lines in this order!!
+
+############ End of leave-in-this-order
+
+
+
+# Network company list added strings
+
+# Network client list
+
+
+
+# Network set password
+
+# Network company info join/password
+
+# Network chat
+
+
+# Network messages
+
+############ Leave those lines in this order!!
+############ End of leave-in-this-order
+
+
+# Network related errors
+############ Leave those lines in this order!!
+############ End of leave-in-this-order
+
+# Content downloading window
+
+# Order of these is important!
+
+# Content downloading progress window
+
+# Content downloading error messages
+
+
+# Transparency settings window
+
+# Linkgraph legend window
+
+# Linkgraph legend window and linkgraph legend in smallmap
+
+# Base for station construction window(s)
+
+# Join station window
+
+
+# Rail construction toolbar
+
+
+
+# Rail depot construction window
+
+# Rail waypoint construction window
+
+# Rail station construction window
+
+
+
+# Signal window
+
+# Bridge selection window
+
+
+# Road construction toolbar
+
+
+# Road depot construction window
+
+# Road vehicle station construction window
+
+# Waterways toolbar (last two for SE only)
+
+# Ship depot construction window
+
+# Dock construction window
+
+# Airport toolbar
+
+# Airport construction window
+
+
+
+
+# Landscaping toolbar
+
+# Object construction window
+
+
+# Tree planting window (last two for SE only)
+
+# Land generation window (SE)
+
+
+# Town generation window (SE)
+
+
+
+
+# Fund new industry window
+
+# Industry cargoes window
+
+# Land area window
+
+# Description of land area of different tiles
+
+
+
+# Houses come directly from their building names
+
+
+
+
+# Industries come directly from their industry names
+
+
+
+
+
+
+# About OpenTTD window
+
+# Framerate display window
+############ Leave those lines in this order!!
+############ End of leave-in-this-order
+############ Leave those lines in this order!!
+############ End of leave-in-this-order
+
+
+# Save/load game/scenario
+
+
+# World generation
+
+# Strings for map borders at game generation
+
+
+
+# SE Map generation
+
+
+# Map generation progress
+
+# NewGRF settings
+
+
+
+
+
+# NewGRF save preset window
+
+# NewGRF parameters window
+
+# NewGRF inspect window
+
+
+
+# Sprite aligner window
+
+
+# NewGRF (self) generated warnings/errors
+
+# NewGRF related 'general' warnings
+
+
+
+# NewGRF status
+
+# NewGRF 'it's broken' warnings
+
+
+# 'User removed essential NewGRFs'-placeholders for stuff without specs
+
+# Placeholders for other invalid stuff, e.g. vehicles that have gone (Game Script).
+
+# NewGRF scanning window
+
+# Sign list window
+
+# Sign window
+
+
+# Town directory window
+
+# Town view window
+
+
+
+# Town local authority window
+
+
+
+# Goal window
+
+# Goal question window
+
+############ Start of Goal Question button list
+############ End of Goal Question button list
+
+# Subsidies window
+
+# Story book window
+
+# Station list window
+
+# Station view window
+
+
+
+
+
+
+############ range for rating starts
+############ range for rating ends
+
+
+
+
+
+# Waypoint/buoy view window
+
+
+# Finances window
+
+# Company view
+
+
+
+
+
+
+
+# Company infrastructure window
+
+# Industry directory
+
+# Industry view
+
+
+
+
+# Vehicle lists
+
+
+
+
+
+
+
+
+# Group window
+
+
+
+
+
+
+
+
+# Build vehicle window
+
+
+############ range for vehicle availability starts
+############ range for vehicle availability ends
+
+
+
+
+
+
+STR_BUY_VEHICLE_ROAD_VEHICLE_BUY_REFIT_VEHICLE_TOOLTIP          :{BLACK}Compra e reequipa o automóvel destacado. Shift+Clique mostra o custo estimado
+
+
+
+
+
+
+
+# Depot window
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Engine preview window
+
+
+
+
+
+# Autoreplace window
+
+
+
+
+
+
+
+
+# Vehicle view
+
+
+
+
+
+
+
+
+
+
+# Messages in the start stop button in the vehicle view
+
+
+# Vehicle stopped/started animations
+
+# Vehicle details
+
+
+# The next two need to stay in this order
+
+
+
+
+
+
+
+
+# Extra buttons for train details windows
+
+
+
+
+
+# Vehicle refit
+
+
+
+
+# Order view
+
+
+
+# Order bottom buttons
+
+
+
+
+
+
+# Conditional order variables, must follow order of OrderConditionVariable enum
+
+
+
+
+
+
+
+# String parts to build the order string
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Time table window
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Date window (for timetable)
+
+
+# AI debug window
+
+
+# AI configuration window
+
+
+
+
+# Available AIs window
+
+
+
+
+# AI Parameters
+
+
+# Textfile window
+
+
+# Vehicle loading indicators
+
+# Income 'floats'
+
+# Saveload messages
+
+# Map generation messages
+
+
+
+
+
+# Soundset messages
+
+# Screenshot related messages
+
+
+# Error message titles
+
+# Generic construction errors
+
+# Local authority errors
+
+# Levelling errors
+
+# Company related errors
+
+
+# Town related errors
+
+# Industry related errors
+
+
+# Station construction related errors
+
+
+# Station destruction related errors
+
+
+# Waypoint related errors
+
+
+
+# Depot related errors
+
+
+
+
+
+
+# Autoreplace related errors
+
+# Rail construction errors
+
+
+# Road construction errors
+
+# Waterway construction errors
+
+# Tree related errors
+
+# Bridge related errors
+
+# Tunnel related errors
+
+# Object related errors
+
+# Group related errors
+
+# Generic vehicle errors
+
+
+
+
+
+
+
+
+
+
+
+
+# Specific vehicle errors
+
+
+
+# Order related errors
+
+
+# Timetable related errors
+
+# Sign related errors
+
+# Translatable comment for OpenTTD's desktop shortcut
+
+# Translatable descriptions in media/baseset/*.ob* files
+
+##id 0x2000
+# Town building names
+
+##id 0x4800
+# industry names
+
+############ WARNING, using range 0x6000 for strings that are stored in the savegame
+############ These strings may never get a new id, or savegames will break!
+##id 0x6000
+
+##id 0x6020
+############ end of savegame specific region!
+
+##id 0x8000
+# Vehicle names
+
+##id 0x8800
+# Formatting of some strings
+
+
+
+
+
+# Viewport strings
+
+
+
+
+# Simple strings to get specific types of data
+
+
+# Slightly 'raw' stringcodes with colour or size
+
+
+

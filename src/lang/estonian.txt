@@ -1,0 +1,915 @@
+##plural 0
+##grflangid 0x34
+
+
+# This file is part of OpenTTD.
+# OpenTTD is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 2.
+# OpenTTD is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+# See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with OpenTTD. If not, see <http://www.gnu.org/licenses/>.
+
+
+##id 0x0000
+
+# Cargo related strings
+# Plural cargo name
+
+# Singular cargo name
+
+# Quantity of cargo
+
+# Two letter abbreviation of cargo name
+
+# 'Mode' of transport for cargoes
+
+# Colours, do not shuffle
+
+# Units used in OpenTTD
+
+
+
+
+
+
+
+
+# Common window strings
+
+
+
+# Show engines button
+
+
+# Query window
+
+# On screen keyboard window
+
+# Measurement tooltip
+
+
+# These are used in buttons
+# These are used in dropdowns
+
+# Tooltips for the main toolbar
+
+# Extra tooltips for the scenario editor toolbar
+
+############ range for SE file menu starts
+############ range for SE file menu starts
+
+############ range for settings menu starts
+############ range ends here
+
+############ range for file menu starts
+############ range ends here
+
+# map menu
+
+############ range for town menu starts
+############ range ends here
+
+############ range for subsidies menu starts
+############ range ends here
+
+############ range for graph menu starts
+############ range ends here
+
+############ range for company league menu starts
+############ range ends here
+
+############ range for industry menu starts
+############ range ends here
+
+############ range for railway construction menu starts
+############ range ends here
+
+############ range for road construction menu starts
+############ range ends here
+
+############ range for waterways construction menu starts
+############ range ends here
+
+############ range for airport construction menu starts
+############ range ends here
+
+############ range for landscaping menu starts
+############ range ends here
+
+############ range for music menu starts
+############ range ends here
+
+############ range for message menu starts
+############ range ends here
+
+############ range for about menu starts
+############ range ends here
+
+############ range for ordinal numbers used for the place in the highscore window
+############ range for ordinal numbers ends
+
+############ range for days starts
+############ range for days ends
+
+############ range for months starts
+
+############ range for months ends
+
+# Graph window
+
+
+
+
+# Graph key window
+
+# Company league window
+STR_COMPANY_LEAGUE_PERFORMANCE_TITLE_ROUTE_SUPERVISOR           :Logistikajuht
+STR_COMPANY_LEAGUE_PERFORMANCE_TITLE_TYCOON                     :Ärihai
+
+# Performance detail window
+############ Those following lines need to be in this order!!
+############ End of order list
+
+# Music window
+
+# Playlist window
+
+# Highscore window
+
+# Smallmap window
+
+
+
+
+# Status bar messages
+
+# News message history
+
+
+STR_NEWS_FIRST_AIRCRAFT_ARRIVAL                                 :{BIG_FONT}{BLACK}Rahvas tervitab. . .{}{STATION} terminali saabus esimene õhusõiduk!
+
+
+
+
+STR_NEWS_NEW_TOWN_UNSPONSORED                                   :{BLACK}{BIG_FONT}Uus asustus nimega {TOWN} on rajatud!
+
+
+
+
+
+
+# Order review system / warnings
+
+
+
+
+
+
+
+
+# Extra view window
+
+# Game options window
+
+############ start of currency region
+############ end of currency region
+
+
+STR_GAME_OPTIONS_TOWN_NAMES_FRAME                               :{BLACK}Asulanimed:
+
+############ start of townname region
+############ end of townname region
+
+
+############ start of autosave dropdown
+############ end of autosave dropdown
+
+
+
+
+
+
+
+
+
+
+
+
+# Custom currency window
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Settings tree window
+
+
+
+
+
+
+
+
+
+
+
+
+STR_CONFIG_SETTING_LANDSCAPE_HELPTEXT                           :Maastikud määravad põhilised mängustsenaariumid erinevate veoste ja nõuetega asulate kasvamiseks. NewGRF ja GameScript abil saab siiski täpsemalt kontrollida
+STR_CONFIG_SETTING_SNOWLINE_HEIGHT_HELPTEXT                     :Määra, millisel kõrgusel algab lähisarktiline maastik. Lumi mõjutab ka tööstuste tekitamist ja asulate kasvuvajadusi. Saab muuta ainult stsenaariumiredaktoris, muidu arvutatakse «lumekatvusega».
+
+
+
+
+STR_CONFIG_SETTING_AUTOSAVE                                     :Salvestusväłp: {STRING}
+
+
+STR_CONFIG_SETTING_LOADING_INDICATORS_HELPTEXT                  :Vali, kas koorma laadimisel ja tühjendamisel näidatakse laadimisnäidikuid
+STR_CONFIG_SETTING_QUICKGOTO_HELPTEXT                           :Siht-osuti on kohe aktiivne, kui korralduste aken avada
+
+
+STR_CONFIG_SETTING_MAX_AIRCRAFT_HELPTEXT                        :Ettevõttele kuuluvate õhusõidukite arvu ülempiirang
+
+
+
+
+
+
+
+
+STR_CONFIG_SETTING_NOISE_LEVEL_HELPTEXT                         :Kui seade ei ole sisse lülitatud, siis igasse asulasse on lubatud ehitada kuni kaks lennuvälja. Kui see seade on lubatud, siis lennuväljade arvu ülempiirang määrab asustuse müratundlikkus, mis sõltub rahvaarvust ja lennuvälja suurusest ja kaugusest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Config errors
+
+# Intro window
+
+
+
+
+
+
+
+# Quit window
+
+# Supported OSes
+
+# Abandon game
+
+# Cheat window
+
+# Livery window
+
+
+
+# Face selection window
+
+
+# Network server list
+
+
+
+
+
+
+
+# Start new multiplayer server
+
+
+
+
+# Network game languages
+############ Leave those lines in this order!!
+############ End of leave-in-this-order
+
+# Network game lobby
+
+
+
+
+
+# Network connecting window
+
+############ Leave those lines in this order!!
+
+############ End of leave-in-this-order
+
+
+
+# Network company list added strings
+
+# Network client list
+
+
+
+# Network set password
+
+# Network company info join/password
+
+# Network chat
+
+
+# Network messages
+
+############ Leave those lines in this order!!
+############ End of leave-in-this-order
+
+
+# Network related errors
+############ Leave those lines in this order!!
+############ End of leave-in-this-order
+
+# Content downloading window
+
+# Order of these is important!
+
+# Content downloading progress window
+
+# Content downloading error messages
+
+
+# Transparency settings window
+
+# Linkgraph legend window
+
+# Linkgraph legend window and linkgraph legend in smallmap
+
+# Base for station construction window(s)
+
+# Join station window
+
+
+# Rail construction toolbar
+
+
+
+# Rail depot construction window
+
+# Rail waypoint construction window
+
+# Rail station construction window
+
+STR_STATION_BUILD_STATION_CLASS_TOOLTIP                         :{BLACK}Vali näidatav jaamajärk
+
+
+# Signal window
+
+# Bridge selection window
+
+
+# Road construction toolbar
+
+
+# Road depot construction window
+
+# Road vehicle station construction window
+
+# Waterways toolbar (last two for SE only)
+
+# Ship depot construction window
+
+# Dock construction window
+
+# Airport toolbar
+
+# Airport construction window
+
+
+
+
+# Landscaping toolbar
+
+# Object construction window
+
+
+# Tree planting window (last two for SE only)
+
+# Land generation window (SE)
+
+
+# Town generation window (SE)
+
+
+
+
+# Fund new industry window
+
+# Industry cargoes window
+
+# Land area window
+STR_LAND_AREA_INFORMATION_COST_TO_CLEAR_N_A                     :{BLACK}Tühjendamise kulu: {LTBLUE}N/A
+STR_LAND_AREA_INFORMATION_COST_TO_CLEAR                         :{BLACK}Tühjendamise kulu: {RED}{CURRENCY_LONG}
+STR_LAND_AREA_INFORMATION_AIRPORT_CLASS                         :{BLACK}Lennuvälja järk: {LTBLUE}{STRING}
+
+# Description of land area of different tiles
+
+
+
+# Houses come directly from their building names
+
+
+
+
+# Industries come directly from their industry names
+
+
+
+
+
+
+# About OpenTTD window
+
+# Framerate display window
+############ Leave those lines in this order!!
+############ End of leave-in-this-order
+############ Leave those lines in this order!!
+############ End of leave-in-this-order
+
+
+# Save/load game/scenario
+
+
+# World generation
+
+# Strings for map borders at game generation
+
+
+
+# SE Map generation
+
+
+# Map generation progress
+
+# NewGRF settings
+
+
+
+
+
+# NewGRF save preset window
+
+# NewGRF parameters window
+
+# NewGRF inspect window
+
+
+
+# Sprite aligner window
+
+
+# NewGRF (self) generated warnings/errors
+
+# NewGRF related 'general' warnings
+
+
+
+# NewGRF status
+
+# NewGRF 'it's broken' warnings
+
+
+# 'User removed essential NewGRFs'-placeholders for stuff without specs
+
+# Placeholders for other invalid stuff, e.g. vehicles that have gone (Game Script).
+
+# NewGRF scanning window
+
+# Sign list window
+
+# Sign window
+
+
+# Town directory window
+
+# Town view window
+STR_TOWN_VIEW_RENAME_TOOLTIP                                    :{BLACK}Muuda asustuse nime
+
+
+STR_TOWN_VIEW_RENAME_TOWN_BUTTON                                :Ümbernimeta asustus
+
+# Town local authority window
+
+
+STR_LOCAL_AUTHORITY_ACTION_TOOLTIP_SMALL_ADVERTISING            :{YELLOW}Pisikese kohaliku reklaamikampaania korraldamine meelitab rohkem reisijaid ja kaupu sinu veoteenuseid kasutama.{}Tõstab asulakeskuse lähiümbruses ajutiselt jaamade tegevushinnanguid.{}Maksumus: {CURRENCY_LONG}
+STR_LOCAL_AUTHORITY_ACTION_TOOLTIP_MEDIUM_ADVERTISING           :{YELLOW}Keskmise reklaamikampaania korraldamine, et meelitada rohkem reisijaid ja kaupu sinu teenuste juurede.{}Tõstab ajutiselt asulakeskuse ümbruses jaamade tegevushinnanguid.{}Maksumus: {CURRENCY_LONG}
+STR_LOCAL_AUTHORITY_ACTION_TOOLTIP_LARGE_ADVERTISING            :{YELLOW}Suure reklaamikampaania korraldamine, et meelitada rohkem reisijaid ja kaupu sinu teenuste juurede.{}Tõstab asulakeskuse kaugümbruses ajutiselt jaamade tegevushinnanguid.{}Maksumus: {CURRENCY_LONG}
+STR_LOCAL_AUTHORITY_ACTION_TOOLTIP_ROAD_RECONSTRUCTION          :{YELLOW}Asula teedevõrgu ümberehituse rahastamine.{}Põhjustab liikluses tõsiseid häireid kuni 6 kuuks.{}Maksumus: {CURRENCY_LONG}
+STR_LOCAL_AUTHORITY_ACTION_TOOLTIP_STATUE_OF_COMPANY            :{YELLOW}Oma ettevõtte auks kuju ehitamine.{}Tõstab püsivalt jaamade tegevushinnanguid selles asulas.{}Maksumus: {CURRENCY_LONG}
+STR_LOCAL_AUTHORITY_ACTION_TOOLTIP_NEW_BUILDINGS                :{YELLOW}Uute hooneehituste rahastamine selles asulas.{}Tõstab ajutiselt asula kasvutempot selles asulas.{}Maksumus: {CURRENCY_LONG}
+STR_LOCAL_AUTHORITY_ACTION_TOOLTIP_EXCLUSIVE_TRANSPORT          :{YELLOW}Üheks aastaks monopoolsete veoõiguste ostmine selles asulas.{}Asula omavalitsus lubab reisijate ja kauba veoks kasutada ainult sinu jaamasid.{}Maksumus: {CURRENCY_LONG}
+STR_LOCAL_AUTHORITY_ACTION_TOOLTIP_BRIBE                        :{YELLOW}Kohalikule omavalitusele ettevõtte hinnangu tõstmise eesmärgil altkäemaksu pakkumine. Vahele jäädes tuleb trahvi maksta.{}Maksumus: {CURRENCY_LONG}
+
+# Goal window
+
+# Goal question window
+
+############ Start of Goal Question button list
+############ End of Goal Question button list
+
+# Subsidies window
+
+# Story book window
+
+# Station list window
+
+# Station view window
+
+
+
+
+
+
+############ range for rating starts
+############ range for rating ends
+
+
+
+
+
+# Waypoint/buoy view window
+
+
+# Finances window
+
+# Company view
+
+
+
+
+
+
+
+# Company infrastructure window
+
+# Industry directory
+
+# Industry view
+
+
+
+
+# Vehicle lists
+
+
+
+
+
+
+
+
+# Group window
+
+
+
+STR_GROUPS_CLICK_ON_GROUP_FOR_TOOLTIP                           :{BLACK}Jagu - jaol klõpsates loetletakse kõik jakku kuuluvad sõidukid. Jagusid lohistades saab luua hierarhia.
+
+
+
+
+
+# Build vehicle window
+
+
+############ range for vehicle availability starts
+############ range for vehicle availability ends
+
+
+
+
+STR_BUY_VEHICLE_AIRCRAFT_BUY_REFIT_VEHICLE_BUTTON               :{BLACK}Osta ja ümberseadista õhusõiduk
+
+
+
+
+
+
+
+
+
+# Depot window
+
+
+
+
+
+
+
+
+
+
+
+STR_DEPOT_CLONE_AIRCRAFT_INFO_HANGAR_WINDOW                     :{BLACK}Ostetakse samasugune õhusõiduk. Vajuta sellele nupule, ning seejärel õhusõidukile angaari sees või väljas. «Ctrl»+klõps jagab korraldusi. «Shift»+klõps näitab eeldatavat ostuhinda
+
+
+
+
+
+
+# Engine preview window
+
+
+
+STR_ENGINE_PREVIEW_AIRCRAFT                                     :õhusõiduki
+
+
+# Autoreplace window
+
+
+
+
+
+
+
+
+# Vehicle view
+
+
+
+
+
+
+
+STR_VEHICLE_VIEW_AIRCRAFT_ORDERS_TOOLTIP                        :{BLACK}Näita õhusõiduki korraldusi. «Ctrl»+klõps näitab õhusõiduki graafikut
+
+
+
+# Messages in the start stop button in the vehicle view
+
+
+# Vehicle stopped/started animations
+
+# Vehicle details
+
+
+# The next two need to stay in this order
+
+
+
+
+
+
+
+STR_QUERY_RENAME_AIRCRAFT_CAPTION                               :{WHITE}Nimeta õhusõiduk
+
+# Extra buttons for train details windows
+
+
+
+
+
+# Vehicle refit
+
+
+
+
+# Order view
+
+
+
+# Order bottom buttons
+STR_ORDER_GO_NON_STOP_VIA                                       :Siht vahepeatusteta läbi
+STR_ORDER_TOOLTIP_NON_STOP                                      :{BLACK}Muuda valitud korralduse peatumisprotseduuri
+
+STR_ORDER_TOOLTIP_FULL_LOAD                                     :{BLACK}Muuda valitud korralduse laadimisprotseduuri
+
+STR_ORDER_TOGGLE_UNLOAD                                         :{BLACK}Tühjenda kõik
+STR_ORDER_DROP_UNLOAD_IF_ACCEPTED                               :Tühjenda nõudlusel
+STR_ORDER_DROP_UNLOAD                                           :Tühjenda kõik
+STR_ORDER_DROP_NO_UNLOADING                                     :Ei tühjenda
+
+
+
+
+# Conditional order variables, must follow order of OrderConditionVariable enum
+
+
+
+
+
+
+
+# String parts to build the order string
+STR_ORDER_GO_NON_STOP_TO_WAYPOINT                               :Siht vahepeatusteta läbi {WAYPOINT}
+
+
+
+
+
+
+STR_ORDER_UNLOAD                                                :(Tühjenda, laadi veosed)
+STR_ORDER_UNLOAD_FULL_LOAD                                      :(Tühjenda, täislaadi kõik)
+STR_ORDER_UNLOAD_FULL_LOAD_ANY                                  :(Tühjenda, täislaadi üks)
+STR_ORDER_UNLOAD_NO_LOAD                                        :(Tühjenda, ei laadi)
+STR_ORDER_NO_UNLOAD                                             :(Ei tühjenda, laadi veosed)
+STR_ORDER_NO_UNLOAD_FULL_LOAD                                   :(Ei tühjenda, täislaadi kõik)
+STR_ORDER_NO_UNLOAD_FULL_LOAD_ANY                               :(Ei tühjenda, täislaadi üks)
+STR_ORDER_NO_UNLOAD_NO_LOAD                                     :(Ei tühjenda, ei laadi)
+
+STR_ORDER_UNLOAD_REFIT                                          :(Tühjenda, laadi, ümberseadista: {STRING})
+STR_ORDER_UNLOAD_FULL_LOAD_REFIT                                :(Tühjenda, täislaadi kõik, ümberseadista: {STRING})
+STR_ORDER_UNLOAD_FULL_LOAD_ANY_REFIT                            :(Tühjenda, täislaadi üks, ümberseadista: {STRING})
+STR_ORDER_NO_UNLOAD_REFIT                                       :(Ei tühjenda, laadi veos, ümberseadista: {STRING})
+STR_ORDER_NO_UNLOAD_FULL_LOAD_REFIT                             :(Ei tühjenda, täislaadi kõik, ümberseadista: {STRING})
+STR_ORDER_NO_UNLOAD_FULL_LOAD_ANY_REFIT                         :(Ei tühjenda, täislaadi üks, ümberseadista: {STRING})
+
+
+
+
+
+
+# Time table window
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Date window (for timetable)
+
+
+# AI debug window
+STR_AI_DEBUG_RELOAD                                             :{BLACK}Taaslaadi AI
+
+
+# AI configuration window
+
+STR_AI_CONFIG_MOVE_UP_TOOLTIP                                   :{BLACK}Tõsta valitud AI loendis kõrgemale
+STR_AI_CONFIG_MOVE_DOWN_TOOLTIP                                 :{BLACK}Langeta valitud AI loendis madalamale
+
+
+
+# Available AIs window
+
+
+
+
+# AI Parameters
+
+
+# Textfile window
+
+
+# Vehicle loading indicators
+
+# Income 'floats'
+
+# Saveload messages
+
+# Map generation messages
+
+
+
+
+
+# Soundset messages
+
+# Screenshot related messages
+
+
+# Error message titles
+
+# Generic construction errors
+
+# Local authority errors
+
+# Levelling errors
+
+# Company related errors
+
+
+# Town related errors
+STR_ERROR_CAN_T_RENAME_TOWN                                     :{WHITE}Ei saa asulat ümbernimetada...
+
+# Industry related errors
+
+
+# Station construction related errors
+
+
+# Station destruction related errors
+
+
+# Waypoint related errors
+
+
+
+# Depot related errors
+
+
+
+
+
+
+# Autoreplace related errors
+
+# Rail construction errors
+
+
+# Road construction errors
+
+# Waterway construction errors
+
+# Tree related errors
+
+# Bridge related errors
+
+# Tunnel related errors
+
+# Object related errors
+
+# Group related errors
+
+# Generic vehicle errors
+
+
+
+
+
+
+
+
+
+
+
+
+# Specific vehicle errors
+
+
+
+# Order related errors
+
+
+# Timetable related errors
+
+# Sign related errors
+
+# Translatable comment for OpenTTD's desktop shortcut
+
+# Translatable descriptions in media/baseset/*.ob* files
+
+##id 0x2000
+# Town building names
+
+##id 0x4800
+# industry names
+
+############ WARNING, using range 0x6000 for strings that are stored in the savegame
+############ These strings may never get a new id, or savegames will break!
+##id 0x6000
+
+##id 0x6020
+############ end of savegame specific region!
+
+##id 0x8000
+# Vehicle names
+
+##id 0x8800
+# Formatting of some strings
+
+
+STR_FORMAT_DEPOT_NAME_ROAD_VEHICLE_SERIAL                       :{TOWN} Maanteesõidukite depoo nr {COMMA}
+
+
+
+# Viewport strings
+
+
+
+
+# Simple strings to get specific types of data
+
+
+# Slightly 'raw' stringcodes with colour or size
+
+
+

@@ -668,10 +668,10 @@ STR_MUSIC_TOOLTIP_TOGGLE_PROGRAM_SHUFFLE                        :{BLACK}Zufälli
 STR_MUSIC_TOOLTIP_SHOW_MUSIC_TRACK_SELECTION                    :{BLACK}Zeige Musiktitelauswahl
 
 # Playlist window
-STR_PLAYLIST_MUSIC_SELECTION_SETNAME                            :{WHITE}Musikprogramm - '{STRING}'
+STR_PLAYLIST_MUSIC_SELECTION_SETNAME                            :{WHITE}Musikprogramm – „{STRING}“
 STR_PLAYLIST_TRACK_NAME                                         :{TINY_FONT}{LTBLUE}{ZEROFILL_NUM} "{STRING}"
 STR_PLAYLIST_TRACK_INDEX                                        :{TINY_FONT}{BLACK}Track Inhalt
-STR_PLAYLIST_PROGRAM                                            :{TINY_FONT}{BLACK}Programm - '{STRING}'
+STR_PLAYLIST_PROGRAM                                            :{TINY_FONT}{BLACK}Programm – „{STRING}“
 STR_PLAYLIST_CLEAR                                              :{TINY_FONT}{BLACK}Bereinigen
 STR_PLAYLIST_CHANGE_SET                                         :{BLACK}Set ändern
 STR_PLAYLIST_TOOLTIP_CLEAR_CURRENT_PROGRAM_CUSTOM1              :{BLACK}Lösche laufendes Programm (nur für Benutzerdefiniert 1 und 2)
@@ -868,11 +868,6 @@ STR_NEWS_STATION_NOW_ACCEPTS_CARGO_AND_CARGO                    :{WHITE}{STATION
 
 STR_NEWS_OFFER_OF_SUBSIDY_EXPIRED                               :{BIG_FONT}{BLACK}Subventionsangebot abgelaufen:{}{}{STRING}transport von {STRING} nach {STRING} wird nicht mehr subventioniert
 STR_NEWS_SUBSIDY_WITHDRAWN_SERVICE                              :{BIG_FONT}{BLACK}Subventionsende:{}{}{STRING}transport von {STRING} nach {STRING} wird nicht mehr subventioniert
-STR_NEWS_SERVICE_SUBSIDY_OFFERED                                :{BIG_FONT}{BLACK}Subventionsangebot:{}{}Erster {STRING}transport von {STRING} nach {STRING} wird ein Jahr von den örtlichen Behörden subventioniert!
-STR_NEWS_SERVICE_SUBSIDY_AWARDED_HALF                           :{BIG_FONT}{BLACK}Subvention vergeben an {STRING}!{}{}{STRING}transport von {STRING} nach {STRING} erhält im nächsten Jahr einen 50% höheren Preis!
-STR_NEWS_SERVICE_SUBSIDY_AWARDED_DOUBLE                         :{BIG_FONT}{BLACK}Subvention vergeben an {STRING}!{}{}{STRING}transport von {STRING} nach {STRING} erhält im nächsten Jahr den doppelten Preis!
-STR_NEWS_SERVICE_SUBSIDY_AWARDED_TRIPLE                         :{BIG_FONT}{BLACK}Subvention vergeben an {STRING}!{}{}{STRING}transport von {STRING} nach {STRING} erhält im nächsten Jahr den dreifachen Preis!
-STR_NEWS_SERVICE_SUBSIDY_AWARDED_QUADRUPLE                      :{BIG_FONT}{BLACK}Subvention vergeben an {STRING}!{}{}{STRING}transport von {STRING} nach {STRING} erhält im nächsten Jahr den vierfachen Preis!
 
 STR_NEWS_ROAD_REBUILDING                                        :{BIG_FONT}{BLACK}Verkehrschaos in {TOWN}!{}{}Straßensanierungsprogramm finanziert durch {STRING} wird 6 Monate lang Verzögerungen im Verkehr bewirken!
 STR_NEWS_EXCLUSIVE_RIGHTS_TITLE                                 :{BIG_FONT}{BLACK}Transportmonopol!
@@ -1091,7 +1086,7 @@ STR_CITY_APPROVAL_PERMISSIVE                                    :Hoch
 STR_CITY_APPROVAL_TOLERANT                                      :Mäßig
 STR_CITY_APPROVAL_HOSTILE                                       :Gering
 
-STR_WARNING_NO_SUITABLE_AI                                      :{WHITE}Keine KI gefunden...{}Verschiedene KI sind via 'Erweiterungen herunterladen' verfügbar
+STR_WARNING_NO_SUITABLE_AI                                      :{WHITE}Keine KI gefunden ...{}Verschiedene KI sind via „Erweiterungen herunterladen“ verfügbar
 
 # Settings tree window
 STR_CONFIG_SETTING_TREE_CAPTION                                 :{WHITE}Einstellungen
@@ -1310,7 +1305,7 @@ STR_CONFIG_SETTING_INDUSTRY_DENSITY_HELPTEXT                    :Wähle wieviele
 STR_CONFIG_SETTING_OIL_REF_EDGE_DISTANCE                        :Maximalabstand vom Kartenrand für Ölraffinerien: {STRING}
 STR_CONFIG_SETTING_OIL_REF_EDGE_DISTANCE_HELPTEXT               :Ölraffinerien werden nur in der Nähe des Kartenrands gebaut, bei inselreichen Karten nahe der Küste
 STR_CONFIG_SETTING_SNOWLINE_HEIGHT                              :Schneegrenze auf: {STRING}
-STR_CONFIG_SETTING_SNOWLINE_HEIGHT_HELPTEXT                     :Wähle die Höhe der Schneefallgrenze im subarktischen Klima. Schnee beeinflusst auch die Platzierung von Industrien und Voraussetzungen für Städtewachstum
+STR_CONFIG_SETTING_SNOWLINE_HEIGHT_HELPTEXT                     :Höhe der Schneefallgrenze im subarktischen Klima wählen. Schnee beeinflusst auch die Platzierung von Industrien und Voraussetzungen für Städtewachstum. Dies kann nur im Szenarieneditor geändert werden oder wird ansonsten anhand der Einstellung „Schneebedeckung“ berechnet.
 STR_CONFIG_SETTING_ROUGHNESS_OF_TERRAIN                         :Rauheit des Geländes: {STRING}
 STR_CONFIG_SETTING_ROUGHNESS_OF_TERRAIN_HELPTEXT                :(nur TerraGenesis) Wähle die Häufigkeit von Hügeln: Rollende Landschaften haben wenige, weit verteilte Hügel. Zerklüftete Landschaften haben viele Hügel, was wiederum sich wiederholend aussehen kann
 STR_CONFIG_SETTING_ROUGHNESS_OF_TERRAIN_VERY_SMOOTH             :Sehr eben
@@ -1387,7 +1382,7 @@ STR_CONFIG_SETTING_RIGHT_MOUSE_WND_CLOSE                        :Fenster mit Rec
 STR_CONFIG_SETTING_RIGHT_MOUSE_WND_CLOSE_HELPTEXT               :Schließt ein Fenster mittels Rechts-Klick. Schaltet Tooltip mit Rechts-Klick ab!
 
 STR_CONFIG_SETTING_AUTOSAVE                                     :Autosave: {STRING}
-STR_CONFIG_SETTING_AUTOSAVE_HELPTEXT                            :Wähle das Interval zwischen automatischen Speicherungen
+STR_CONFIG_SETTING_AUTOSAVE_HELPTEXT                            :Intervall zwischen automatischen Speicherungen wählen
 
 STR_CONFIG_SETTING_DATE_FORMAT_IN_SAVE_NAMES                    :Verwende {STRING} Datumsformat beim Benennen der Spielstände
 STR_CONFIG_SETTING_DATE_FORMAT_IN_SAVE_NAMES_HELPTEXT           :Lege das Datumsformat für Spielstandsdateien fest
@@ -1724,7 +1719,7 @@ STR_CONFIG_ERROR                                                :{WHITE}Fehler i
 STR_CONFIG_ERROR_ARRAY                                          :{WHITE}... Fehler im Array '{STRING}'
 STR_CONFIG_ERROR_INVALID_VALUE                                  :{WHITE}... ungültiger Wert '{STRING}' für '{STRING}'
 STR_CONFIG_ERROR_TRAILING_CHARACTERS                            :{WHITE}... angehängte Zeichen an der Einstellung '{STRING}'
-STR_CONFIG_ERROR_DUPLICATE_GRFID                                :{WHITE}... ignoriere NewGRF '{STRING}': identische GRF ID wie '{STRING}'
+STR_CONFIG_ERROR_DUPLICATE_GRFID                                :{WHITE}... ignoriere NewGRF „{STRING}“: identische GRF-ID wie „{STRING}“
 STR_CONFIG_ERROR_INVALID_GRF                                    :{WHITE}... ignoriere ungültiges NewGRF '{STRING}': {STRING}
 STR_CONFIG_ERROR_INVALID_GRF_NOT_FOUND                          :nicht gefunden
 STR_CONFIG_ERROR_INVALID_GRF_UNSAFE                             :ungeignet für statischen Gebrauch
@@ -2742,6 +2737,7 @@ STR_FRAMERATE_DRAWING                                           :{BLACK}Grafik-R
 STR_FRAMERATE_DRAWING_VIEWPORTS                                 :{BLACK}Kartenansichten:
 STR_FRAMERATE_VIDEO                                             :{BLACK}Videoausgabe:
 STR_FRAMERATE_SOUND                                             :{BLACK}Sound-Abmischung:
+STR_FRAMERATE_ALLSCRIPTS                                        :{BLACK}  GS-/KI-Skripte gesamt:
 STR_FRAMERATE_GAMESCRIPT                                        :{BLACK}   Script:
 ############ End of leave-in-this-order
 ############ Leave those lines in this order!!
@@ -3018,7 +3014,7 @@ STR_NEWGRF_BROKEN_CAPACITY                                      :{WHITE}Ändert 
 STR_BROKEN_VEHICLE_LENGTH                                       :{WHITE}Zug '{VEHICLE}' der Firma '{COMPANY}' hat eine ungültige Länge. Vermutlich ein NewGRF Problem. Spiel kann desynchronisieren oder abstürzen
 
 STR_NEWGRF_BUGGY                                                :{WHITE}NewGRF '{0:STRING}' liefert falsche Informationen
-STR_NEWGRF_BUGGY_ARTICULATED_CARGO                              :{WHITE}Fracht / Ersetzungs - Informationen für '{1:ENGINE}' weichen von der Einkaufsliste nach dem Kauf ab. Das kann dazu führen, dass das Umrüsten beim autmatisches Ersetzen oder Erneuern nicht korrekt funktioniert
+STR_NEWGRF_BUGGY_ARTICULATED_CARGO                              :{WHITE}Fracht / Ersetzungsinformationen für „{1:ENGINE}“ weichen von der Einkaufsliste nach dem Kauf ab. Das kann dazu führen, dass das Umrüsten beim autmatisches Ersetzen oder Erneuern nicht korrekt funktioniert
 STR_NEWGRF_BUGGY_ENDLESS_PRODUCTION_CALLBACK                    :{WHITE}'{1:STRING}' verursachte eine Endlosschleife in Produktions-Rückruffunktion
 STR_NEWGRF_BUGGY_UNKNOWN_CALLBACK_RESULT                        :{WHITE}Callback {1:HEX} lieferte des unbekannte und ungülte Resultat {2:HEX}
 
@@ -3260,7 +3256,7 @@ STR_BUOY_VIEW_CHANGE_BUOY_NAME                                  :{BLACK}Namen de
 STR_EDIT_WAYPOINT_NAME                                          :{WHITE}Namen des Wegpunkts ändern
 
 # Finances window
-STR_FINANCES_CAPTION                                            :{WHITE}{COMPANY} Finanzen {BLACK}{COMPANY_NUM}
+STR_FINANCES_CAPTION                                            :{WHITE}{COMPANY} – Finanzen {BLACK}{COMPANY_NUM}
 STR_FINANCES_EXPENDITURE_INCOME_TITLE                           :{WHITE}Ausgaben / Einnahmen
 STR_FINANCES_YEAR                                               :{WHITE}{NUM}
 STR_FINANCES_SECTION_CONSTRUCTION                               :{GOLD}Baukosten
@@ -3494,10 +3490,10 @@ STR_BUY_VEHICLE_AIRCRAFT_BUY_VEHICLE_BUTTON                     :{BLACK}Flugzeug
 
 STR_BUY_VEHICLE_AIRCRAFT_BUY_REFIT_VEHICLE_BUTTON               :new 2022-05-11 23:10
 
-STR_BUY_VEHICLE_TRAIN_BUY_VEHICLE_TOOLTIP                       :{BLACK}Angewähltes Fahrzeug kaufen. Shift+Klick zeigt einen Kostenvoranschlag
+STR_BUY_VEHICLE_TRAIN_BUY_VEHICLE_TOOLTIP                       :{BLACK}Ausgewähltes Fahrzeug kaufen. Umschalt+Klick zeigt einen Kostenvoranschlag
 STR_BUY_VEHICLE_ROAD_VEHICLE_BUY_VEHICLE_TOOLTIP                :{BLACK}Ausgewähltes Fahrzeug kaufen. Shift+Klick zeigt einen Kostenvoranschlag
 STR_BUY_VEHICLE_SHIP_BUY_VEHICLE_TOOLTIP                        :{BLACK}Ausgewähltes Schiff kaufen. Shift+Klick zeigt einen Kostenvoranschlag
-STR_BUY_VEHICLE_AIRCRAFT_BUY_VEHICLE_TOOLTIP                    :{BLACK}Augewähltes Flugzeug kaufen. Shift schaltet zwischen Bauen und Kostenvoranschlag um
+STR_BUY_VEHICLE_AIRCRAFT_BUY_VEHICLE_TOOLTIP                    :{BLACK}Augewähltes Flugzeug kaufen. Umschalt+Klick zeigt einen Kostenvoranschlag
 
 
 STR_BUY_VEHICLE_TRAIN_RENAME_BUTTON                             :{BLACK}Umbenennen
@@ -3541,10 +3537,10 @@ STR_DEPOT_VEHICLE_TOOLTIP                                       :{BLACK}{ENGINE}
 STR_DEPOT_VEHICLE_TOOLTIP_CHAIN                                 :{BLACK}{NUM} Fahrzeug{P "" e}{STRING}
 STR_DEPOT_VEHICLE_TOOLTIP_CARGO                                 :{}{CARGO_LONG} ({CARGO_SHORT})
 
-STR_DEPOT_TRAIN_LIST_TOOLTIP                                    :{BLACK}Züge - Fahrzeug ziehen, um es an-/abzukoppeln. Rechts-Klick für Fahrzeuginformationen, Rechts-Klick für Einzelheiten. Strg, um die jeweilige Funktion für das gesamte Gespann auszuführen
-STR_DEPOT_ROAD_VEHICLE_LIST_TOOLTIP                             :{BLACK}Straßenfahrzeuge - Rechts-Klick für Einzelheiten
-STR_DEPOT_SHIP_LIST_TOOLTIP                                     :{BLACK}Schiffe - Rechts-Klick für Einzelheiten
-STR_DEPOT_AIRCRAFT_LIST_TOOLTIP                                 :{BLACK}Flugzeuge - Rechts-Klick für Einzelheiten
+STR_DEPOT_TRAIN_LIST_TOOLTIP                                    :{BLACK}Züge – Fahrzeug ziehen, um es an-/abzukoppeln. Rechtsklick für Fahrzeuginformationen, Rechtsklick für Einzelheiten. Strg, um die jeweilige Funktion für das gesamte Gespann auszuführen
+STR_DEPOT_ROAD_VEHICLE_LIST_TOOLTIP                             :{BLACK}Straßenfahrzeuge – Rechtsklick für Einzelheiten
+STR_DEPOT_SHIP_LIST_TOOLTIP                                     :{BLACK}Schiffe – Rechtsklick für Einzelheiten
+STR_DEPOT_AIRCRAFT_LIST_TOOLTIP                                 :{BLACK}Flugzeuge – Rechtsklick für Einzelheiten
 
 STR_DEPOT_TRAIN_SELL_TOOLTIP                                    :{BLACK}Schienenfahrzeug hierher ziehen, um es zu verkaufen
 STR_DEPOT_ROAD_VEHICLE_SELL_TOOLTIP                             :{BLACK}Ziehe Straßenfahrzeug hierher, um es zu verkaufen
@@ -4564,11 +4560,11 @@ STR_ERROR_CAN_T_DELETE_SIGN                                     :{WHITE}Kann Sch
 STR_DESKTOP_SHORTCUT_COMMENT                                    :Ein auf der Idee von Transport Tycoon Deluxe basierendes Spiel
 
 # Translatable descriptions in media/baseset/*.ob* files
-STR_BASEGRAPHICS_DOS_DESCRIPTION                                :Original Transport Tycoon Deluxe DOS Basisgrafiken.
-STR_BASEGRAPHICS_DOS_DE_DESCRIPTION                             :Original Transport Tycoon Deluxe DOS (Deutsch) Basisgrafiken.
-STR_BASEGRAPHICS_WIN_DESCRIPTION                                :Original Transport Tycoon Deluxe Windows Basisgrafiken.
-STR_BASESOUNDS_DOS_DESCRIPTION                                  :Original Transport Tycoon Deluxe DOS Basissounds.
-STR_BASESOUNDS_WIN_DESCRIPTION                                  :Original Transport Tycoon Deluxe Windows Basissounds.
+STR_BASEGRAPHICS_DOS_DESCRIPTION                                :Originale Grafiken von Transport Tycoon Deluxe in der DOS-Edition.
+STR_BASEGRAPHICS_DOS_DE_DESCRIPTION                             :Originale Grafiken von Transport Tycoon Deluxe in der DOS-Edition (Deutsch).
+STR_BASEGRAPHICS_WIN_DESCRIPTION                                :Originale Grafiken von Transport Tycoon Deluxe in der Windows-Edition.
+STR_BASESOUNDS_DOS_DESCRIPTION                                  :Originale Sounds von Transport Tycoon Deluxe in der DOS-Edition.
+STR_BASESOUNDS_WIN_DESCRIPTION                                  :Originale Sounds von Transport Tycoon Deluxe in der Windows-Edition.
 STR_BASESOUNDS_NONE_DESCRIPTION                                 :Basissounds ohne Sound.
 STR_BASEMUSIC_WIN_DESCRIPTION                                   :Original Transport Tycoon Deluxe Windows Musikset.
 STR_BASEMUSIC_DOS_DESCRIPTION                                   :Original Transport Tycoon Deluxe DOS edition music.
@@ -4682,7 +4678,7 @@ STR_SV_STNAME_BUOY                                              :{STRING}
 STR_SV_STNAME_WAYPOINT                                          :{STRING}
 ##id 0x6020
 STR_SV_STNAME_ANNEXE                                            :{STRING} Anbau
-STR_SV_STNAME_SIDINGS                                           :{STRING} Nebengleis
+STR_SV_STNAME_SIDINGS                                           :{STRING} Ausweiche
 STR_SV_STNAME_BRANCH                                            :{STRING} Abzweig
 STR_SV_STNAME_UPPER                                             :Ober-{STRING}
 STR_SV_STNAME_LOWER                                             :Unter-{STRING}
@@ -4825,9 +4821,9 @@ STR_VEHICLE_NAME_ROAD_VEHICLE_PERRY_MAIL_TRUCK                  :Perry Postwagen
 STR_VEHICLE_NAME_ROAD_VEHICLE_MIGHTYMOVER_MAIL_TRUCK            :MightyMover Postwagen
 STR_VEHICLE_NAME_ROAD_VEHICLE_POWERNAUGHT_MAIL_TRUCK            :Powernaught Postwagen
 STR_VEHICLE_NAME_ROAD_VEHICLE_WIZZOWOW_MAIL_TRUCK               :Wizzowow Postwagen
-STR_VEHICLE_NAME_ROAD_VEHICLE_WITCOMBE_OIL_TANKER               :Witcombe Öltanker
-STR_VEHICLE_NAME_ROAD_VEHICLE_FOSTER_OIL_TANKER                 :Foster Öltanker
-STR_VEHICLE_NAME_ROAD_VEHICLE_PERRY_OIL_TANKER                  :Perry Öltanker
+STR_VEHICLE_NAME_ROAD_VEHICLE_WITCOMBE_OIL_TANKER               :Witcombe-Öltankwagen
+STR_VEHICLE_NAME_ROAD_VEHICLE_FOSTER_OIL_TANKER                 :Foster-Öltankwagen
+STR_VEHICLE_NAME_ROAD_VEHICLE_PERRY_OIL_TANKER                  :Perry-Öltankwagen
 STR_VEHICLE_NAME_ROAD_VEHICLE_TALBOTT_LIVESTOCK_VAN             :Talbott Viehtransporter
 STR_VEHICLE_NAME_ROAD_VEHICLE_UHL_LIVESTOCK_VAN                 :Uhl Viehtransporter
 STR_VEHICLE_NAME_ROAD_VEHICLE_FOSTER_LIVESTOCK_VAN              :Foster Viehtransporter
