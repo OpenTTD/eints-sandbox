@@ -18,6 +18,40 @@
 # Quantity of cargo
 
 # Two letter abbreviation of cargo name
+STR_ABBREV_NOTHING                                              :
+STR_ABBREV_PASSENGERS                                           :{TINY_FONT}PS
+STR_ABBREV_COAL                                                 :{TINY_FONT}CL
+STR_ABBREV_MAIL                                                 :{TINY_FONT}ML
+STR_ABBREV_OIL                                                  :{TINY_FONT}OL
+STR_ABBREV_LIVESTOCK                                            :{TINY_FONT}LV
+STR_ABBREV_GOODS                                                :{TINY_FONT}GD
+STR_ABBREV_GRAIN                                                :{TINY_FONT}GR
+STR_ABBREV_WOOD                                                 :{TINY_FONT}WD
+STR_ABBREV_IRON_ORE                                             :{TINY_FONT}OR
+STR_ABBREV_STEEL                                                :{TINY_FONT}ST
+STR_ABBREV_VALUABLES                                            :{TINY_FONT}VL
+STR_ABBREV_COPPER_ORE                                           :{TINY_FONT}CO
+STR_ABBREV_MAIZE                                                :{TINY_FONT}MZ
+STR_ABBREV_FRUIT                                                :{TINY_FONT}FT
+STR_ABBREV_DIAMONDS                                             :{TINY_FONT}DM
+STR_ABBREV_FOOD                                                 :{TINY_FONT}FD
+STR_ABBREV_PAPER                                                :{TINY_FONT}PR
+STR_ABBREV_GOLD                                                 :{TINY_FONT}GD
+STR_ABBREV_WATER                                                :{TINY_FONT}WR
+STR_ABBREV_WHEAT                                                :{TINY_FONT}WH
+STR_ABBREV_RUBBER                                               :{TINY_FONT}RB
+STR_ABBREV_SUGAR                                                :{TINY_FONT}SG
+STR_ABBREV_TOYS                                                 :{TINY_FONT}TY
+STR_ABBREV_SWEETS                                               :{TINY_FONT}SW
+STR_ABBREV_COLA                                                 :{TINY_FONT}CL
+STR_ABBREV_CANDYFLOSS                                           :{TINY_FONT}CF
+STR_ABBREV_BUBBLES                                              :{TINY_FONT}BU
+STR_ABBREV_TOFFEE                                               :{TINY_FONT}TF
+STR_ABBREV_BATTERIES                                            :{TINY_FONT}BA
+STR_ABBREV_PLASTIC                                              :{TINY_FONT}PL
+STR_ABBREV_FIZZY_DRINKS                                         :{TINY_FONT}FZ
+STR_ABBREV_NONE                                                 :{TINY_FONT}NO
+STR_ABBREV_ALL                                                  :{TINY_FONT}ALL
 
 # 'Mode' of transport for cargoes
 
@@ -136,6 +170,7 @@
 
 
 
+STR_SMALLMAP_TOOLTIP_DISABLE_ALL_COMPANIES                      :{BLACK}Display no company property on the map
 
 # Status bar messages
 
@@ -157,6 +192,7 @@
 
 
 
+STR_NEWS_SHOW_VEHICLE_GROUP_TOOLTIP                             :{BLACK}Open the group window focused on the vehicle's group
 
 
 
@@ -186,6 +222,7 @@
 
 
 
+STR_GAME_OPTIONS_BASE_MUSIC_TOOLTIP                             :{BLACK}Select the base music set to use
 
 
 # Custom currency window
@@ -239,6 +276,7 @@
 
 
 
+STR_CONFIG_SETTING_LOCALISATION_UNITS_VELOCITY_SI               :SI (m/s)
 
 
 
@@ -273,6 +311,7 @@
 
 # Face selection window
 
+STR_FACE_GLASSES                                                :Glasses:
 
 # Network server list
 
@@ -309,6 +348,7 @@
 
 # Network client list
 
+STR_NETWORK_CLIENT                                              :Client
 
 
 # Network set password
@@ -435,6 +475,7 @@
 
 
 # World generation
+STR_MAPGEN_TERRAIN_TYPE                                         :{BLACK}Terrain type:
 
 # Strings for map borders at game generation
 
@@ -449,6 +490,7 @@
 
 
 
+STR_NEWGRF_SETTINGS_PARAMETER                                   :{BLACK}Parameters: {SILVER}{STRING}
 
 
 # NewGRF save preset window
@@ -525,6 +567,7 @@
 
 
 # Finances window
+STR_FINANCES_POSITIVE_INCOME                                    :{BLACK}+{CURRENCY_LONG}
 
 # Company view
 
@@ -548,6 +591,7 @@
 
 
 
+STR_VEHICLE_LIST_REPLACE_VEHICLES                               :Replace vehicles
 
 
 
@@ -849,6 +893,11 @@
 
 # Simple strings to get specific types of data
 
+STR_JUST_DATE_TINY                                              :{DATE_TINY}
+STR_JUST_DATE_SHORT                                             :{DATE_SHORT}
+STR_JUST_DATE_LONG                                              :{DATE_LONG}
+STR_JUST_DATE_ISO                                               :{DATE_ISO}
+STR_JUST_BIG_RAW_STRING                                         :{BIG_FONT}{STRING}
 
 # Slightly 'raw' stringcodes with colour or size
 
